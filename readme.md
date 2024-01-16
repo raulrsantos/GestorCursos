@@ -1,0 +1,1 @@
+Este arquivo cria registros e os exibe, segundo a ação do usuário
